@@ -56,7 +56,7 @@ echo "Hello World!";
 |-|-|-|
 |1|2|3|
 
-
+git init - инициализация Git
 git status - команда, показа состояния репозитория 
 
 ## Lesson 2
