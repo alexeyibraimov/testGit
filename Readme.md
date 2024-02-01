@@ -57,5 +57,7 @@ echo "Hello World!";
 |1|2|3|
 
 
+git status - команда, показа состояния репозитория 
+
 ## Lesson 2
 
