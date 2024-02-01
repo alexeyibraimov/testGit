@@ -60,4 +60,5 @@ echo "Hello World!";
 git status - команда, показа состояния репозитория 
 
 ## Lesson 2
+git branch - команда, выводит ветки
 
